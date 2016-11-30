@@ -1,15 +1,15 @@
 # Site settings
-title: Nangka
-email: your@mail.com
+title: TianGao
+email: tiangao1102@163.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my awesome blog.
+  海阔凭鱼跃，天高任鸟飞
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: #your GA unique id, e.g. UA-xxxxxxxx-x
 disqus_username: #Your disqus_username to add comments on the post
 
 # Optional settings
-github: #your github username
+github: stiangao
 linkedin: #linkedin username
 twitter:
   username: #twitter username here
